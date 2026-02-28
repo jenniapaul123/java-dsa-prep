@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
